@@ -1,5 +1,7 @@
 # CODSOFT-TASK--1
 
+## CREDIT CARD FRAUD DETECTION
+
 This project focuses on detecting fraudulent credit card transactions using machine learning algorithms. The dataset contains information about various credit card transactions, and models like Logistic Regression and Decision Trees are used to classify transactions as fraudulent or legitimate.
 
 ## Import Libraries
